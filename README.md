@@ -5,4 +5,4 @@ WU, YU-XIANG
 吳育翔
 
 I am a student. 
-I am studying at ChaoYang university of technology.
+I am studying at Chaoyang university of technology.
