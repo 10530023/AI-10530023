@@ -4,5 +4,5 @@ AI-10530023
 WU, YU-XIANG 
 吳育翔
 
-I am a studet. 
+I am a student. 
 I am studing at ChaoYang university of technology.
